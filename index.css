@@ -80,8 +80,12 @@ h1 {
 
 }
 .jumbotron {
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: 22%;
+    margin-left: 18%;
     margin-top: 5%;
     background-color: #594f8d;
+}
+.card-columns {
+    margin-right: 25%;
+    margin-left: 25%;
 }
